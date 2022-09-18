@@ -1,4 +1,4 @@
-name: Ramindb/public-web-react
+name: Ramindb/public-web-docusaurus
 
 on:
   push:
